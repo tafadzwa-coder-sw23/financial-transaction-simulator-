@@ -280,3 +280,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = FinancialSimulator(root)
     root.mainloop()
+
+    #end of algorithm 
